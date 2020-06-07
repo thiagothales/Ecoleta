@@ -1,0 +1,9 @@
+ width: 90%; /*Largura da página*/
+    max-width: 1100px; /*define que a largura da página não exceda 1100px*/
+    padding (Preenchimento interno de um form)
+
+     /*quando um field é seguido de outro 
+    pode-se usar o "+" fazer ações sobre o 2° field,
+     exemplo->.field + .field*/
+
+     document.querySelectorAll(" Busca uma tag dentro da página")
